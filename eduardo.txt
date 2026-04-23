@@ -1,0 +1,6 @@
+Soy eduardo vivo en bogota, soy ingeniero de sistemas y tengo la suerte de dedicarme a lo que estudie, mis habilidades son:
+
+- MongoDB, MySQL, PostgreSQL
+- PHP / Express
+- Angular / React / JS / TypeScript
+- Copilot Studio
